@@ -1,0 +1,30 @@
+html{
+  width: 100%;
+  height: 100%;
+}
+body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+
+}
+:root{
+  width: 100%;
+  height: 100%;
+  --background-color: white;  
+  --text-color: black;
+  --username-color: #838CB0;
+  --value-color: black;
+  --changeUp-color: green;
+  --changeDown-color: red;
+  --border-color: #EFF3FA;
+}
+[data-theme="dark"]{
+  --background-color: #20222F;
+  --username-color: grey;
+  --text-color: white;  
+  --value-color: white;
+  --changeUp-color: green;
+  --changeDown-color: red;
+  --border-color: #252B43;
+}

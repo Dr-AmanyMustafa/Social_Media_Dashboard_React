@@ -1,0 +1,86 @@
+{
+    "followers": [
+        {
+            "platform": "./public/img/icon-facebook.svg",
+            "username": "@nathanf",
+            "metric": "Followers",
+            "value": 1987,
+            "changeUp": "+12 Today",
+            "color": "blue"
+        },
+        {
+            "platform": "./public/img/icon-twitter.svg",
+            "username": "@nathanf",
+            "metric": "Followers",
+            "value": 1044,
+            "changeUp": "+99 Today",
+            "color": "blue"
+        },
+        {
+            "platform": "./public/img/icon-instagram.svg",
+            "username": "@realnathanf",
+            "metric": "Followers",
+            "value": 11000,
+            "changeUp": "+1099 Today",
+            "color": "gradient"
+        },
+        {
+            "platform": "./public/img/icon-youtube.svg",
+            "username": "Nathan F.",
+            "metric": "Subscribers",
+            "value": 8239,
+            "changeDown": "-144 Today",
+            "color": "red"
+        }
+    ],
+    "engagement": [
+        {
+            "platform": "./public/img/icon-facebook.svg",
+            "metric": "Page Views",
+            "value": 87,
+            "changeUp": "+3%"
+        },
+        {
+            "platform": "./public/img/icon-facebook.svg",
+            "metric": "Likes",
+            "value": 52,
+            "changeDown": "-2%"
+        },
+        {
+            "platform": "./public/img/icon-instagram.svg",
+            "metric": "Likes",
+            "value": 5462,
+            "changeUp": "+2257%"
+        },
+        {
+            "platform": "./public/img/icon-instagram.svg",
+            "metric": "Profile Views",
+            "value": 52000,
+            "changeUp": "+1375%"
+        },
+        {
+            "platform": "./public/img/icon-twitter.svg",
+            "metric": "Retweets",
+            "value": 117,
+            "changeUp": "+303%"
+        },
+        {
+            "platform": "./public/img/icon-twitter.svg",
+            "metric": "Likes",
+            "value": 507,
+            "changeUp": "+553%"
+        },
+        {
+            "platform": "./public/img/icon-youtube.svg",
+            "metric": "Likes",
+            "value": 107,
+            "changeDown": "-19%"
+        },
+        {
+            "platform": "./public/img/icon-youtube.svg",
+            "metric": "Total Views",
+            "value": 1407,
+            "changeDown": "-12%"
+        }
+    ]
+}
