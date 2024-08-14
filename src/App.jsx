@@ -7,7 +7,6 @@ import {  useState } from 'react'
 function App() { 
   const [theme, setTheme] = useState('false');
 
-
   return (
     <>
       <main className='container' data-theme={theme ? "dark": "light"}>
