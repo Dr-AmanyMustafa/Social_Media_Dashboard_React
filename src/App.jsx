@@ -16,6 +16,7 @@ function App() {
           isChecked={theme}
           handleChange={()=> setTheme(!theme) }>            
         </Mode>
+        {/* <hr className='line'></hr> */}
         <Map_followers></Map_followers>
         <Map_engagement></Map_engagement>
       </main>     

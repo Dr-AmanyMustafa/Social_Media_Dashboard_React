@@ -55,10 +55,19 @@
 }
 @media (max-width: 700px) {
     .toggle {
-        gap: .1em;        
-        width: 110px;
+        gap: 6.1em;        
+        width: 510px;
         position: absolute;
-        top: 25px;
-        left: 250px;
+        top: 155px;
+        left: 35px;
+    }
+}
+@media (max-width: 1400px) {
+    .toggle {
+        gap: 6.1em;        
+        width: 510px;
+        position: absolute;
+        top: 125px;
+        left: 35px;
     }
 }
