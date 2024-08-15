@@ -6,7 +6,7 @@ function dashboard() {
     const MainArray = 
      [ 
       {
-        "platform": "./public/img/icon-facebook.svg",
+        "platform": "/img/icon-facebook.svg",
         "username": "@nathanf",
         "metric": "Followers",
         "value": 1987,
@@ -14,7 +14,7 @@ function dashboard() {
         "color": "blue"
     },
     {
-        "platform": "./public/img/icon-twitter.svg",
+        "platform": "/img/icon-twitter.svg",
         "username": "@nathanf",
         "metric": "Followers",
         "value": 1044,
@@ -22,7 +22,7 @@ function dashboard() {
         "color": "blue"
     },
     {
-        "platform": "./public/img/icon-instagram.svg",
+        "platform": "/img/icon-instagram.svg",
         "username": "@realnathanf",
         "metric": "Followers",
         "value": 11000,
@@ -30,7 +30,7 @@ function dashboard() {
         "color": "gradient"
     },
     {
-        "platform": "./public/img/icon-youtube.svg",
+        "platform": "/img/icon-youtube.svg",
         "username": "Nathan F.",
         "metric": "Subscribers",
         "value": 8239,
